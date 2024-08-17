@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const url = "https://34.126.68.84:9999/"; //http://34.92.8.4:9097
+const url = "https://smart-serve.smartserve.click/"; //http://34.92.8.4:9097
 
 const api = axios.create({
   baseURL: url,
